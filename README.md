@@ -1,5 +1,8 @@
-\================================= PYTHON UTILITY PROGRAMS MENU ================================= 
-1. Electricity Bill Calculator
-2. Online Store Discount System
-3. Bank Loan Approval System
-4. Exit Select an option (1-4):
+# Run Electricity Bill Calculator 
+python3 electricity_bill.py 
+
+# Run Store Discount System 
+python3 store_discount.py
+
+# Run Bank Loan Approval System 
+python3 bank\_loan.py
